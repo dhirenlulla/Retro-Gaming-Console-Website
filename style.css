@@ -151,10 +151,6 @@ body {
   transition: transform 0.1s;
 }
 
-.button1 {
-  padding: 10px 20px;
-}
-
 .button-3d:active {
   border-top: 2px solid #808080;
   border-left: 2px solid #808080;
